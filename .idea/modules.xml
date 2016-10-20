@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gameoflife.iml" filepath="$PROJECT_DIR$/gameoflife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gameoflife-build/gameoflife-build.iml" filepath="$PROJECT_DIR$/gameoflife-build/gameoflife-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gameoflife-core/gameoflife-core.iml" filepath="$PROJECT_DIR$/gameoflife-core/gameoflife-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gameoflife-web/gameoflife-web.iml" filepath="$PROJECT_DIR$/gameoflife-web/gameoflife-web.iml" />
+    </modules>
+  </component>
+</project>
