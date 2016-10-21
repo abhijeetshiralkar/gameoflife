@@ -1,13 +1,10 @@
 package com.wakaleo.gameoflife.domain;
 
-import org.junit.Test;
-
-import com.wakaleo.gameoflife.domain.Universe;
-
 import static com.wakaleo.gameoflife.domain.Universe.seededWith;
-
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.*;
+import static org.hamcrest.Matchers.is;
+
+import org.junit.Test;
 
 public class WhenYouPlayTheGameOfLife {
 
@@ -87,7 +84,7 @@ public class WhenYouPlayTheGameOfLife {
                 "..." + NEW_LINE +
                 "..." + NEW_LINE + "";
 
-        String expectedNextGrid = "..." + NEW_LINE +
+        String expectedNextGrid = ".." + NEW_LINE +
                 "..." + NEW_LINE +
                 "..." + NEW_LINE + "";
 
