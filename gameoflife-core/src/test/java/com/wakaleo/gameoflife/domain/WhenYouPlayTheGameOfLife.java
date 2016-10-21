@@ -84,7 +84,7 @@ public class WhenYouPlayTheGameOfLife {
                 "..." + NEW_LINE +
                 "..." + NEW_LINE + "";
 
-        String expectedNextGrid = ".." + NEW_LINE +
+        String expectedNextGrid = "..." + NEW_LINE +
                 "..." + NEW_LINE +
                 "..." + NEW_LINE + "";
 
