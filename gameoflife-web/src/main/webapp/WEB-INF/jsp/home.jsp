@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Testing's Conway's Game Of Life!</h2>
+<h2>Welcome to Nokia's Conway's Game Of Life!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
